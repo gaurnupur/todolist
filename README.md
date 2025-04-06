@@ -1,2 +1,24 @@
-# todolist
-A clean and responsive To-Do List web application built with HTML, CSS, and JavaScript. Users can add, delete, and manage tasks with a simple and intuitive interface. Perfect for organizing daily tasks efficiently
+# ✅ To-Do List App
+
+A simple and responsive **To-Do List web application** built from scratch using **HTML, CSS, and JavaScript**. This project allows users to **add**, **delete**, and **manage daily tasks** with a clean and intuitive interface — perfect for staying organized and productive.
+
+---
+
+## 🔍 Features
+
+- 📝 Add new tasks quickly
+- ✅ Mark tasks as completed
+- ❌ Delete tasks with a single click
+- 💾 Stores data in browser using `localStorage`
+- 💻 Fully responsive design (works on desktop & mobile)
+- 🌙 Optionally extendable to dark mode or animations
+
+---
+
+## 💡 Technologies Used
+
+| Tech        | Role                        |
+|-------------|-----------------------------|
+| **HTML5**   | Structure of the application |
+| **CSS3**    | Styling and layout design    |
+| **JavaScript (ES6)** | Logic, interactivity, and DOM manipulation |
